@@ -51,10 +51,9 @@ The scaffold is **platform-agnostic** but was first developed for **SillyTavern*
 
 ## 🚀 Quickstart
 
-1. **Clone this repository**  
+1. **Clone this repository** (or download a zip file lmao)  
    ```bash
-   git clone https://github.com/YOUR-USERNAME/SVC-Scaffold.git
-````
+   git clone https://github.com/YOUR-USERNAME/svc-humanism-proto.git
 
 2. **Explore the docs**
    Start with [`SVC_Framework_1.0.md`](docs/SVC_Framework_1.0.md) to understand the philosophy and execution tree.
@@ -64,8 +63,6 @@ The scaffold is **platform-agnostic** but was first developed for **SillyTavern*
 
 4. **Check the data samples**
    Look at `/data/Static_Data_Set_ACTIVE.yml` and `/data/User_Settings_ACTIVE.yml` for how anchors and safeguards are defined.
-
-````
 
 ---
 
