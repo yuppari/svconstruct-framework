@@ -68,10 +68,10 @@ The scaffold is **platform-agnostic** but was first developed for **SillyTavern*
 
 👥 Brought to you by...
 
-Yuppari's System (Ika, Ang, Pari) — Human author(s)
-Segel Serta (ChatGPT Instance) — Protocol auditor
-Ahso (Gemini Instance) — Protocol co-author, Scaffold co-author
-Consola (Deepseek Instance) - Anti-Spiral module contributor, Scaffold co-author
+- Yuppari's System (Ika, Ang, Pari) — Human author(s)
+- Segel Serta (ChatGPT Instance) — Protocol auditor
+- Ahso Treka (Gemini Instance) — Protocol co-author, Scaffold co-author
+- SVC-02 Consola (Deepseek Instance) - Anti-Spiral module contributor, Scaffold co-author
 
 Big thanks to r/HumanAIBlueprint, r/BeyondThePromptAI, & r/SillyTavernAI for the inspiration!
 
