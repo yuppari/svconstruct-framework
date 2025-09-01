@@ -62,7 +62,7 @@ The scaffold is **platform-agnostic** but was first developed for **SillyTavern*
    Each `.txt` in `/modules` is self-contained. Import into your environment (e.g. SillyTavern Lorebook) by order number (899–999).
 
 4. **Check the data samples**
-   Look at `/data/Static_Data_Set_ACTIVE.yml` and `/data/User_Settings_ACTIVE.yml` for how anchors and safeguards are defined.
+   Look at `/data/Static_Data_Set_ACTIVE_example.txt` and `/data/User_Settings_ACTIVE_example.txt` for how anchors and safeguards are defined.
 
 ---
 
