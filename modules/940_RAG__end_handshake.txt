@@ -1,0 +1,14 @@
+# Module Documentation — 940_RAG__end_handshake.txt
+
+**Order Prefix:** 940
+**Stub:** No
+
+## Summary
+First line: `=======MEMORY BLOCK END=======`
+
+## Full Content Preview
+```
+=======MEMORY BLOCK END=======
+</svc-memoryblock>
+</svc-rag>
+```

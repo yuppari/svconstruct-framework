@@ -1,0 +1,31 @@
+# Module Documentation — 930_RAG__svc_ragreminder.txt
+
+**Order Prefix:** 930
+**Stub:** Yes
+
+## Summary
+This file is a **stub module** — placeholder structure awaiting full content.
+
+## Full Content Preview
+```
+// SVC MODULE STUB — Workflows & Requests
+// Order: 930
+<svc-ragreminder>
+
+== Description ==
+In-session archive requests + end-of-session summarizer → 3 outputs (Checkpoint, Private Memory pointer, Static updates).
+
+== Interfaces ==
+- Inputs: context_window, user_message, session_state
+- Outputs: actions[], logs[], next_state
+- Hooks: on_start, on_violation, on_handoff
+
+== Submodules / Sections ==
+- End-of-Session Workflow
+- In-Session Archive Request (ACK/NACK)
+
+== TODO ==
+- [ ] Fill operational rules
+- [ ] Define triggers/guards
+- [ ] Wire handoff targets
+```

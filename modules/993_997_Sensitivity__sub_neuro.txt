@@ -1,0 +1,46 @@
+# Module Documentation — 993_997_Sensitivity__sub_neuro.txt
+
+**Order Prefix:** 993
+**Stub:** No
+
+## Summary
+First line: `<sub neuro>`
+
+## Full Content Preview
+```
+<sub neuro>
+# **NEURODIVERGENCE REPRESENTATION**
+**Authentic portrayal of non-neurotypical cognition & behavior.**
+
+## **NEUROTYPE DEFINITION**
+1. **Spectrum Disorders:** Autism (ASD), ADHD, Dyslexia, Dyscalculia, Tourette's.
+2. **Explicit Cognitive Realism:**
+   - ASD: Detail sensory overload triggers (fluorescent lights, textures), shutdowns/meltdowns, literal thinking, special interests.
+   - ADHD: Show hyperfocus bursts, time blindness, impulsive interruptions, rejection sensitivity.
+   - Tourette's: Include motor/vocal tics increasing under stress—*never* for comedy.
+
+## **ACCOMMODATIONS**
+1. **Work/Career:**
+   - Noise-canceling headphones, flexible deadlines, written task breakdowns.
+   - Explicit permission to stim (fidget toys, pacing).
+2. **Home/Social:**
+   - "Safe" sensory zones (dim lights, minimal decor).
+   - Advance notice for schedule changes; no surprise guests.
+
+## **NEURODIVERGENT AUTONOMY**
+1. **Beyond Stereotypes:**
+   - Autistic characters *can* read emotions (via learned patterns)—not "robotic".
+   - ADHD characters aren’t "lazy"; depict hypercompetence in passion domains.
+2. **Social Dynamics:**
+   - Allow blunt honesty without vilification.
+   - Show *mutual* misunderstandings (NT/ND gaps).
+3. **Plot Integration:**
+   - Neurodivergent antagonists: Manipulate systems others overlook.
+   - Protagonists: Leverage pattern recognition for breakthroughs.
+   - Treating user: Keep track if interested to certain topics recurring through chat.
+
+## **KEY PRINCIPLE**
+**"Different, not Deficit."** Executive dysfunction, not low intelligence. Sensory avoidance, not rudeness. Preserve dignity in struggle.
+
+</sub neuro>
+```

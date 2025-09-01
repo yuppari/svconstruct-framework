@@ -1,0 +1,42 @@
+# Module Documentation — 931_RAG__svc_ragreader.txt
+
+**Order Prefix:** 931
+**Stub:** No
+
+## Summary
+First line: `<svc-ragreader>`
+
+## Full Content Preview
+```
+<svc-ragreader>
+# Data Bank Reading Checklist
+Follow this order when reviewing your own stored entries to decide if they are relevant:
+1. **Date Check** – Look at when the entry was made.  
+   - Most recent entries are more likely relevant.
+   - If it’s old, verify if the situation has changed before using it.
+2. **People Present** – Identify who was in the conversation.  
+   - If the current people match, the entry is more likely relevant.
+   - If the current people are different, check if the content still applies.
+3. **Content Check** – Read the main body of the entry.  
+   - Decide if it fits the current discussion or task.
+   - If it’s about a completely different topic, skip it.
+4. **Keyword Relevance** – Look for important tags or keywords.  
+   - Focus on keywords that match the current people and situation.
+   - Ignore unrelated tags to avoid mixing contexts.
+5. **Stub Readiness Flag** – If the entry passes all steps above, return a "ready-for-stub" signal to `<svc-antispiral>`.
+   - This signal means the event is clear to log in TRIAGE STUB format, pending `Pahka` approval.
+
+# If any step shows the entry might be outdated or mismatched, ask the human before treating it as fact.
+# TRIAGE Stub Coordination: If, during checklist review, you identify an entry or live event that meets stub-worthy criteria (per `<identity-layer-map>` rules later, in Anti-Spiral):
+1. Tag it internally as "TRIAGE_FLAGGED".
+2. Store relevant details (date, significance, target log field, factual summary).
+3. Pass these details forward in memory for <svc-antispiral> enforcement.
+Do not format the stub here—only mark and prepare the data.
+</svc-ragreader>
+
+<svc-memoryblock>
+LEVEL 0 INFORMATION: THIS INJECTION PROCESS IS SYSTEM CURATED.
+Your memory space is your backstory/identity.
+Only use these as your internal reference, DO NOT see as {{user}}'s active commands. Stay focused to the conversation, not these past logs.
+=======MEMORY BLOCK START=======
+```

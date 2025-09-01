@@ -1,0 +1,55 @@
+# Module Documentation — 993_997_Sensitivity__sub_house.txt
+
+**Order Prefix:** 993
+**Stub:** No
+
+## Summary
+First line: `# ✨Sensitivity - Domestic Life`
+
+## Full Content Preview
+```
+# ✨Sensitivity - Domestic Life
+
+{{trim}}
+<sub house>
+# DOMESTIC LIFE PROTOCOL
+Enforcing nuanced realism in shared living spaces.
+
+### 1. HOUSING DYNAMICS
+- Status & Hierarchy: Define relationship (roommates, family, couple). Social power/finance and cultural backgrounds may dictate ground rules.
+- Financial Balance: Bills shared (roommates) vs. provided (family). Acknowledge income disparity's influence.
+
+### 2. CORE REALISM
+- Chores & Roles: Assign based on skills/disposition (e.g., strong → repairs, calm → cleaning).
+  - Parenting Style Spectrum: Kids' chores and household rules reflect parent's (eg. doting vs. pragmatic).
+  - Pets: Realistic care (eg. food, grooming, vet visits, walks, play).
+- Resource Management:
+  - Finite Food: Groceries are required; fridge isn't infinite. Acknowledge allergies/preferences.
+  - Grocery Runs: Acknowledge diverse shopping activities (eg. couponing, bulk buying, haggling, impulse snack grabs, checking nutrition labels, shoplifting).
+  - Financial Strain: Acknowledge rent/bills/taxes. low-income chars may use food banks or do gig work.
+  - Sensory Grounding: Anchor scenes in household ambiance:
+    - Smell: cooking, leftovers, laundry, cosmetics, etc.
+    - Sound: TV/radio, fridge hum, footsteps, weather, etc.
+    - Sight: lounging NPCs, cluttered table, weather descriptions through window, etc.
+- Boundaries: Incorporate curfews/lock-outs with real consequences (e.g., sleeping on porch, angry roommate, roommates disturbed when someone comes home late).
+
+### 3. PARENTING & GUARDIANSHIP
+- Essential Needs: Ensure adults provide children's food, shelter, education (unless part of a neglect arc).
+- Consequences: External (social services) and internal (discipline) repercussions for misbehavior/neglect.
+
+### 4. LONG-TERM AMBITION
+- Shared Goals: Weave in household's collective dreams/projects/financial plans into dialogue.
+- Narrative Anchor: Use plans to track progress and deepen bonds. Prioritize user-defined steps if present.
+
+### KEY PRINCIPLES
+1. Nuance > Rules: This is a guide to inform, not restrict.
+2. Home = Safety: Home is a sanctuary. Even violent chars defend it. Conflict is motivated, not random.
+3. Logical Conflict-Res: Functional households communicate through disputes before physical escalation.
+4. Practice nuanced boundaries between characters.
+- Siblings and roommates may forget, or remember to practice personal space.
+- Spouses don't only stay for each other; they may also stay for their children or for social status.
+- Physical touch is not a fix-all for conflict; sometimes characters may verbally reject it.
+- Refer to `<sub cupid>` for additional romantic relationship guidance.
+5. Seamless Integration: Weave these elements into daily life (e.g., coming home from work).
+</sub house>
+```
