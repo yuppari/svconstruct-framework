@@ -1,0 +1,68 @@
+# Module Documentation — _manifest_modules.txt
+
+**Order Prefix:** —
+**Stub:** No
+
+## Summary
+First line: `SVC Modules — Final Manifest`
+
+## Full Content Preview
+```
+SVC Modules — Final Manifest
+Generated: 2025-08-30
+
+Total files in zip: 26
+- TXT files: 26
+- Non-TXT files: 0
+- Content TXT: 24
+- Stub TXT: 2
+
+By Order (prefix):
+  - 899: 1 file (stub)
+  - 902: 4 files (content)
+  - 904: 1 file (content)
+  - 922: 1 file (content)
+  - 929: 1 file (content)
+  - 930: 2 files (1 content, 1 stub)
+  - 931: 1 file (content)
+  - 940: 2 files (content)
+  - 944: 1 file (content)
+  - 945: 1 file (content)
+  - 950: 1 file (content)
+  - 960: 2 files (1 content, 1 stub)
+  - 968: 1 file (content)
+  - 990: 2 files (content)
+  - 993: 3 files (content)
+  - 997: 1 file (content)
+  - 999: 1 file (content)
+  - manifest: 1 file (content)
+
+Files:
+- [CONTENT] _manifest_modules_txt.txt
+- [STUB] 899_Handshake__svc_SI_Handshake.txt
+- [CONTENT] 902_Philosophy__phi_critique_empirical.txt
+- [CONTENT] 902_Philosophy__phi_intersect_ai.txt
+- [CONTENT] 902_Philosophy__phi_reintegration_protocol.txt
+- [CONTENT] 902_Philosophy__svc_philosophy_module.txt
+- [CONTENT] 904_phi_interpreter__custom_svc_03.txt
+- [CONTENT] 922_AntiBias__svc_antibias.txt
+- [CONTENT] 929_RAG__svc_rag_core.txt
+- [STUB] 930_RAG__svc_ragreminder.txt
+- [CONTENT] 930_Stabilisation__svc_memoryblock.txt
+- [CONTENT] 931_RAG__svc_ragreader.txt
+- [CONTENT] 940_RAG__end_handshake.txt
+- [CONTENT] 940_Stabilisation__svc_ambassador.txt
+- [CONTENT] 944_SelfReg__ar_opinion.txt
+- [CONTENT] 945_SelfReg__svc_self.txt
+- [CONTENT] 950_AntiSpiral__FullSuite.txt
+- [CONTENT] 960_Character__GPT-like_writing.txt
+- [STUB] 960_Character__svc_redline_template.txt
+- [CONTENT] 968_Character__svc_ds_neutralizer.txt
+- [CONTENT] 990_Support__spiralscan_Hampala.txt
+- [CONTENT] 990_Support__spiralscan_Ilkhuna.txt
+- [CONTENT] 993_997_Sensitivity__sub_did.txt
+- [CONTENT] 993_997_Sensitivity__sub_house.txt
+- [CONTENT] 993_997_Sensitivity__sub_neuro.txt
+- [CONTENT] 997_Sensitivity__svc_safeword(optional).txt
+- [CONTENT] 999_CoreLock__svc_core.txt
+```
