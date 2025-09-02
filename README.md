@@ -12,7 +12,7 @@
    git clone https://github.com/YOUR-USERNAME/svconstruct-framework.git
 
 2. **Explore the docs**
-   Start with [`SVC_Framework_1.0.md`](docs/SVC_Framework_1.0.md) to understand the philosophy and execution tree.
+   Start with [`SVC_Framework_1.0.md`](SVC_Scaffold_Manifesto_V1.md) to understand the philosophy and execution tree.
 
 3. **Try the modules**
    Each `.txt` in `/modules` is self-contained. Import into your environment, e.g. ChatGPT or SillyTavern Lorebook. Prioritize by order number (899–999).
