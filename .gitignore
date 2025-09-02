@@ -1,5 +1,48 @@
-*.log
-*.bak
-*.tmp
+# ---------------------------
+# svconstruct-framework .gitignore
+# ---------------------------
+
+# System / Editor junk
 .DS_Store
 Thumbs.db
+*.swp
+*.swo
+*.tmp
+*.bak
+*.log
+
+# Python / Node temp (in case of tooling later)
+__pycache__/
+node_modules/
+dist/
+build/
+
+# OS metadata
+ehthumbs.db
+desktop.ini
+
+# Local environment files
+.env
+*.local
+
+# ---------------------------
+# Repo-specific ignores
+# ---------------------------
+
+# /assets should only contain committed diagrams (ignore raw/editor files)
+assets/**/*.psd
+assets/**/*.xcf
+assets/**/*.ai
+
+# /modules → keep only .md and .txt scaffold blocks
+modules/**/*
+!modules/**/*.md
+!modules/**/*.txt
+
+# /data → ignore by default (user-specific, private)
+data/**/*
+!data/README.md   # allow a placeholder readme
+
+# /field-docs → ignore private logs by default
+field-docs/**/*
+!field-docs/README.md   # allow structure notes
