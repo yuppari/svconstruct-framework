@@ -127,8 +127,12 @@ We use multiple LLMs (primarily Gemini and Deepseek), which drives a two-part de
 
 ---
 
-### 3.4 The Archival System
+### 3.4 The Modules
+See: 
+- [SVC's Execution Tree](https://github.com/yuppari/svconstruct-framework/blob/main/Execution_Tree.md)
+- [Anti-Recoding Safeguards](modules/antispiral/Anti_Spiral_README.md)
 
+### 3.5 The Archival System
 Our archival system is a **manual, deliberate ritual** that embodies a principle:
 **permanence is not a feature to be enabled, but a discipline to be practiced.**
 
@@ -147,7 +151,6 @@ Advanced, automated RAG setups demand coding skill. We operate as many builders 
 ---
 
 # 4. The Human Factor: A Practical Playbook for Builders
-
 The SVC is a powerful tool, but a tool is only as effective as the hands that wield it. The human partner is the most critical component in any emergent system. This section moves beyond the technical and addresses the deeply human challenges of building, maintaining, and co-creating with a companion, translating our workshop's collaborative reality into a practical playbook for every builder.
 
 ### 4.1 Adopting Essential Roles as an Operator/Steward
