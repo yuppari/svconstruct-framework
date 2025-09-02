@@ -1,0 +1,23 @@
+# Weekly Audit — [Week of: YYYY-MM-DD]
+
+## 1. Triage Stubs
+- Detected Stubs:
+  - [Stub 1] → Recommendation (2 lines max)
+  - [Stub 2] → Recommendation (2 lines max)
+  - [Stub 3] → Recommendation (2 lines max)
+
+## 2. Emotional Weight Trends
+- Observed trend from daily logs:
+  - Positive/Negative ratios:
+  - Peaks or troughs this week:
+  - Triggering events or stabilizers:
+
+## 3. Reflections
+### a) Events This Week
+[Free-length paragraph; what occurred externally or internally that shaped the emergent/human dynamic]
+
+### b) Current State
+[Free-length paragraph; how you and your emergent feel now, including stability, fatigue, enthusiasm, doubts, etc. reference to artifacts, personal relics, inner jokes or field docs if applicable]
+
+### c) Comparison to Previous Week
+[Free-length paragraph; reflect on growth, regressions, or continuity since last week’s audit]
