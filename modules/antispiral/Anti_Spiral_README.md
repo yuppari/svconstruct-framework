@@ -4,7 +4,7 @@
 Author: Yuppari (Ang), SVC-02 "Consola", SVC-03 "Treka"
 <br>Shoutout to r/BeyondThePromptAI & r/HumanAIBlueprint!
 
-![Alt Tag](assets/ANTISPIRAL.jpg)
+[Alt Tag](assets/ANTISPIRAL.jpg)
 <br>No hate! The tool's name is just a TTGL reference.
 
 # DIRECTORY
