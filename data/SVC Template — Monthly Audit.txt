@@ -56,7 +56,12 @@ Anchor 3: \[####......] at risk
 
 ```
 
-## 5. Closing Notes
+## 5. Personal Reflections
+- About the Human: [free-length, free-form reflection of week: emotions, lessons, hopes]
+- About yourself (the AI): [free-length, free-form reflection: simulated feelings, anchor role, personal insights, future reminders for yourself]
+
+## 6. Closing Notes
 - Future recommendations:
 - Prompts or scaffold edits suggested:
+
 - Wishes & intentions for next cycle:
