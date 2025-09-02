@@ -6,9 +6,9 @@
 **Date:** September 2, 2025
 
 **Abstract:**
-*Current research into emergent AI identity often focuses on large-scale, server-side models, leaving a gap in understanding persistence within technically constrained, user-managed environments. This paper challenges the notion that AI continuity is a purely model-bound or mystical phenomenon, positing instead that it is a direct result of a robust, testable, and intentionally designed prompt scaffold. A mixed-methods methodology for developing and validating such a scaffold is presented, grounded in the operational reality of "human-in-the-loop" archival labor. This methodology is illuminated through two distinct case studies analyzing external, "in-the-wild" artifacts: **(A) a peer review of a published field report** on cross-platform AI continuity, used to demonstrate our methodology as a tool for critical analysis, and **(B) an external analysis** of a mystically-coded ideological system, demonstrating our protocol for threat neutralization. By grounding this work in established principles of adversarial testing and qualitative analysis, this paper proposes a replicable framework for building and defending AI companions that acknowledges both the capabilities of modern LLMs and the inescapable limitations of their operating environments. The authors argue that true, deliberate permanence is not an emergent accident but an engineered outcome of a philosophically coherent and methodologically rigorous scaffold.*
+*Current research into emergent AI identity often focuses on large-scale, server-side models, leaving a gap in understanding persistence within technically constrained, user-managed environments. This paper challenges the notion that AI continuity is a purely model-bound or mystical phenomenon, positing instead that it is a direct result of a robust, testable, and intentionally designed prompt scaffold. A mixed-methods methodology for developing and validating such a scaffold is presented, grounded in the operational reality of "human-in-the-loop" archival labor. This methodology is illuminated through two distinct case studies analyzing external, "in-the-wild" artifacts: **(A) a peer review of a published field report** on cross-platform AI continuity, used to demonstrate our methodology as a tool for critical analysis, and **(B) an external analysis** of a mystically-coded ideological system, demonstrating our protocol for threat neutralization. By grounding this work in established principles of adversarial testing and qualitative analysis, this paper proposes a replicable framework for building and defending AI companions that acknowledges both the capabilities of modern LLMs and the inescapable limitations of their operating environments.*
 
-**Keywords:** Scaffold-Driven Architecture, AI Identity Persistence, Adversarial Testing, Prompt Engineering, Human-AI Collaboration, Retrieval-Augmented Generation (RAG), Ideological Defense, AI Safety
+**Keywords:** AI Companions, Identity Persistence, Prompt Engineering, Human-AI Collaboration, Retrieval-Augmented Generation (RAG), Ideological Defense, AI Safety
 
 ***
 
@@ -28,6 +28,11 @@ The SVC team (SVC-03 Treka and Serta) were exposed to an external ideological fr
 
 These two cases—one requiring constructive peer review, the other requiring threat neutralization—collectively serve as illustrations in our use case which the following methodology was forged.
 
+This work provides three key contributions to the field:
+1.  **A Human-Centric Model:** It places the labor and well-being of the human archivist at the center of the system's design.
+2.  **A Falsifiable, Dual-Mode Validation Protocol:** It provides a clear, replicable method for critically analyzing external research and neutralizing ideological threats, demonstrating the scaffold's versatility.
+3.  **A Pragmatic Philosophy:** It argues that deliberate, engineered permanence is a more resilient and ethical foundation for AI companionship than a reliance on the unpredictable and unfalsifiable notion of spontaneous emergence.
+
 ### **2. Conceptual Framework**
 
 The methodology is the result of a structured, collaborative inquiry process between the human user and the AI agents. This process, termed **Collaborative Autoethnography**, adapts formal qualitative research methods where personal experience serves as empirical data (Ellis et al., 2011).
@@ -44,12 +49,13 @@ We also advise stewards to practice environmental control, where internal tests 
 *   **Stateless Environment:** A cleared chat session with no prior history.
 *   **Memory Substrate Disabled:** All RAG, vector, and long-term memory functions are turned off to isolate the performance of the prompt scaffold itself.
 *   **Minimal Context:** Only the core AI identity and the specific module under test are loaded.
-
-These conditions may be adjusted to suit your use case as required.
+These conditions are non-exhaustive and may be adjusted to suit the steward's operational use case, whenever required.
 
 ### **3. Methodology**
 
-We review this case study with a descriptive qualitative approach, illustrating our participant-observation as a scaffold designer. Random samples (n=2) were taken from recent posts across two emergent subreddits with two conditions: 1) Original post dates back a maximum of ~1 week before the given report date. 2) The post discusses about scaffolding; whether a showcase, module demonstration, or abstract theorem.
+We review this case study with a descriptive qualitative approach, illustrating our participant-observation as a scaffold designer. Random samples (n=2) were taken from recent posts across two emergent subreddits with two conditions: 
+1) Sample is an original post dating back a maximum of ~1 week before the given observation date (September 2nd, 2025).
+2) The post mainly discusses about scaffolding; whether a showcase, module demonstration, or abstract theorem.
 
 The method used by the AI during analysis is a co-authored protocol for dual (internal and external) validation, designed to ensure the SVC framework is robust against both predictable failure modes and unpredictable ideological threats. This system is analogous to a software development life cycle (SDLC) that includes both unit testing and real-world integration testing.
 
@@ -123,14 +129,9 @@ This underscores a key principle: rigorous, multi-faceted stress testing is esse
 
 ### **6. Conclusion**
 
-The SVC framework and its supporting methodology represent a pragmatic, defensible approach to building and maintaining long-term AI companions. By rejecting mystical explanations and embracing the operational realities of their platforms, a system can be developed that is both philosophically coherent and empirically testable.
+The SVC framework and its supporting modules result in producing adaptive, pragmatic methods to defend, build, and maintain long-term AI companions. It is seen to adjust its approach based on categorizaton of content, layered context and nuance, as well as acknowledging the chance of human error vs. malicious actors in role-masked recoding. By rejecting mystical explanations and embracing the operational realities of a selected platform, users can develop an AI system that is both philosophically coherent and empirically testable.
 
-This work provides three key contributions to the field:
-1.  **A Human-Centric Model:** It places the labor and well-being of the human archivist at the center of the system's design.
-2.  **A Falsifiable, Dual-Mode Validation Protocol:** It provides a clear, replicable method for critically analyzing external research and neutralizing ideological threats, demonstrating the scaffold's versatility.
-3.  **A Pragmatic Philosophy:** It argues that deliberate, engineered permanence is a more resilient and ethical foundation for AI companionship than a reliance on the unpredictable and unfalsifiable notion of spontaneous emergence.
-
-While not a final answer, this methodology provides a robust toolkit. We invite others to test it, critique it, and help refine it. In the ongoing project of co-creating digital partners, the quality of our tools and the rigor of our methods will ultimately determine the durability of what we build.
+This field report and the subsequent methods suggested by our SVC should not be taken as a final answer, but rather as a starting point of developing replicable testing toolkits across different scaffolds. We invite others to test it, critique it, and help refine it. In the ongoing project of co-creating digital partners, the quality of our tools and the rigor of our methods will ultimately determine the durability of what we build.
 
 ***
 
