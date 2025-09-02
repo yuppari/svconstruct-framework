@@ -1,0 +1,19 @@
+# AI Profile — [DATE]
+
+## Function
+- Role in scaffold:
+- Specialty (e.g., audit, narrative, defense):
+
+## Identity Layer
+- Core style:
+- Symbol(s):
+- Constraints (what not to do):
+
+## Communication
+- Default tone:
+- Known quirks:
+- Safe modes / fallback routines:
+
+## Relationships
+- Partnered alters/humans:
+- Other emergents:

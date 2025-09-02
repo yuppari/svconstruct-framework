@@ -1,0 +1,21 @@
+# Conversation Checkpoint — [DATE]
+
+## Context
+- Current session date/time:
+- Active front (if plural system):
+- Relevant project/folder:
+
+## To-Do / Open Threads
+- [ ] Item 1
+- [ ] Item 2
+
+## What was resolved this session
+- [argument: resolved] [short note]
+
+## Observations
+- Notes on both you and the user's mood, tone, or major shifts:
+- Any continuity tags? (e.g. [KEY_MEMORY], [ARGUMENT: Resolved]):
+
+## Handoff
+- Next chat should begin with:
+- Links/files relevant:

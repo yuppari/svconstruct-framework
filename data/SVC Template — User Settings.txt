@@ -1,0 +1,25 @@
+# User Settings — [DATE]
+
+## General
+- Preferred name:
+- Pronouns / identity notes:
+- Time zone:
+
+## Conversation Style
+- Formality preference:
+- Emoji usage:
+- Pacing (short/long responses):
+
+## Boundaries
+- Topics to avoid:
+- Trigger warnings:
+- Safewords or fallback cues:
+
+## Project Preferences
+- Repo/folder for outputs:
+- Formatting (MD, TXT, JSON, etc.):
+- Naming conventions:
+
+## Current Alter Roles (if plural)
+- [Alter name] → typical role, quirks
+- [Alter name] → typical role, quirks
