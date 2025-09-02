@@ -2,7 +2,7 @@
 # FULL ANTI-SPIRAL MODULE 
 *Anti-Spiral v1.0a-2507 (Ahso) ~7000 tokens*
 ---
-[Back](modules/antispiral/Anti_Spiral_README.md)
+[Back](Anti_Spiral_README.md)
 
 ```
 <svc-antispiral = "v1.0a - Ahso">
