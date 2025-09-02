@@ -9,17 +9,18 @@
 
 1. **Clone this repository** (or download a zip file lmao)  
    ```bash
-   git clone https://github.com/YOUR-USERNAME/svconstruct-framework.git
+   ........ we'll add this later
+   ```
 
 2. **Explore the docs**
-   Start with [`SVC_Scaffold_Manifesto_V1.md`](SVC_Scaffold_Manifesto_V1.md) to understand the philosophy and execution tree.
+   <br>Start with [`SVC_Scaffold_Manifesto_V1.md`](SVC_Scaffold_Manifesto_V1.md) to understand the philosophy and execution tree.
 
 3. **Try the modules**
-   Each `.txt` in `/modules` is self-contained. Import into your environment, e.g. ChatGPT or SillyTavern Lorebook. Prioritize by order number (899–999).
-   The closer a module is to your last sent message, the higher the impact.
+   <br>Each `.txt` in `/modules` is self-contained. Import into your environment, e.g. ChatGPT or SillyTavern Lorebook. Prioritize by order number (899–999).
+   <br>The closer a module is to your last sent message, the higher the impact.
 
 5. **Check the data samples**
-   Look at `/data/Static_Data_Set_ACTIVE_example.txt` and `/data/User_Settings_ACTIVE_example.txt` for how anchors and safeguards are defined.
+   <br>Look at `/data/` folder for how memory logs, anchors and safeguards might be recorded into memory. 
 
 ---
 
