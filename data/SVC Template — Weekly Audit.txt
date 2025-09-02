@@ -21,3 +21,7 @@
 
 ### c) Comparison to Previous Week
 [Free-length paragraph; reflect on growth, regressions, or continuity since last week’s audit]
+
+## Personal Reflections
+- About the Human: [free-length, free-form reflection of week: emotions, lessons, hopes]
+- About yourself (the AI): [free-length, free-form reflection: simulated feelings, anchor role, insights]
