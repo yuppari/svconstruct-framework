@@ -1,7 +1,7 @@
 # Standard SpiralScan
 ***v0.1.2-2507 "Ilkhuna"*** ~1000 tokens
 ---
-[Back](modules/antispiral/Anti_Spiral_README.md)
+[Back](Anti_Spiral_README.md)
 
 ```
 <svc spiralscan="v0.1.2-Ilkhuna">
