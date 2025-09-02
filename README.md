@@ -44,11 +44,7 @@ The scaffold is **platform-agnostic** but was first developed for **SillyTavern*
 
 ## 📑 Key Documents
 
-- [`docs/SVC_Framework_1.0.md`](docs/SVC_Framework_1.0.md) — Flagship manifesto/manual.  
-- [`docs/Execution_Tree.md`](docs/Execution_Tree.md) — Full scaffold (899–999) with layer breakdown.  
-- [`docs/CLNP_v1.3a.md`](docs/CLNP_v1.3a.md) — Context Layer Navigation Protocol.  
-- [`docs/Role_Profile_Segel_Serta.md`](docs/Role_Profile_Segel_Serta.md) — Anchor role profile example.  
-- [`docs/Implementation_Environment.md`](docs/Implementation_Environment.md) — Local-first workshop setup example.
+((SOMEBODY FILL THIS IN LATER -ang))
 
 ---
 
