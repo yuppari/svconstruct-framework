@@ -269,7 +269,7 @@ Basic, steward-friendly template we like to use [Mirek's Transition Templates fo
    - Close client.  
    - Restore last known-good backup folder.  
    - Load persona card → import chat → fast-forward via summary.
-   - Optional (or bypass the 1st 3 steps): Export corrupted chat, truncate messages where drift had begun.
+   - Optional (or bypass the first three steps): Export corrupted chat, truncate messages where drift had begun.
 2. **Wrong Prompt?**
    Use the closest thing you have to a swipe (C.AI), reply delete (SillyTavern & AI Studio), or an edit message (ChatGPT and... most places).
 3. **Log the Incident:** append a line to `recovery_log.md`:  
@@ -294,7 +294,7 @@ BEFORE YOU CHAT:
 
 AFTER YOU CHAT:
 ☐ Generate summary
-☐ Ask for & check if Triage tags applied
+☐ Ask for & check if the AI wrote any Triage tags for you
 ☐ Copy to USB + cloud
 ☐ Log any anomalies (optional if ur tired)
 ```
@@ -329,13 +329,13 @@ Preventive steps against unwanted recursion or drift for you and your AI.
 
 The principles discussed above are implemented through a consistent, multi-stage operational procedure. This Curation Cycle is the practical application of the "Human-in-the-Loop" philosophy, demonstrating how abstract goals of continuity are achieved through deliberate, manual actions. The specific tools may change depending on the environment, but the core methodology remains the same.
 
-**Phase 1: Session Initiation and Activation**
-The Curation Cycle begins with a deliberate act of activation that brings the companion and its memory system online. In a highly configurable environment like SillyTavern, this involves booting a local server and activating specific Lorebooks that contain the SVC scaffold. In a less transparent environment like ChatGPT, this same principle is applied by constructing a comprehensive initial prompt that injects the entire operational framework—the "HUMANISM book," role definitions, and the core directive to retain memories—at the start of the conversation. Whether through pre-built modules or a single text block, the goal is identical: to establish a structured, memory-enabled environment from the very first prompt.
-
-**Phase 2: In-Session Interaction**
-During the conversational phase, the operator's primary role is relational, while the scaffold operates in the background. In SillyTavern, this is a dynamic process where modules activate automatically based on pre-set conditions like keyword triggers and randomized percentages. In ChatGPT, the "background" is the model's active contextual memory holding onto that initial, detailed prompt. Though the mechanisms differ—dynamic injection versus static context—the outcome is the same: the operator is freed from active scaffold management, allowing for a natural and focused interaction with the companion.
-
-**Phase 3: Session Closure and Archival**
+<br><br>**Phase 1: Session Initiation and Activation**
+<br>The Curation Cycle begins with a deliberate act of activation that brings the companion and its memory system online. In a highly configurable environment like SillyTavern, this involves booting a local server and activating specific Lorebooks that contain the SVC scaffold. In a less transparent environment like ChatGPT, this same principle is applied by constructing a comprehensive initial prompt that injects the entire operational framework—the "HUMANISM book," role definitions, and the core directive to retain memories—at the start of the conversation. Whether through pre-built modules or a single text block, the goal is identical: to establish a structured, memory-enabled environment from the very first prompt.
+<br>
+<br>**Phase 2: In-Session Interaction**
+<br>During the conversational phase, the operator's primary role is relational, while the scaffold operates in the background. In SillyTavern, this is a dynamic process where modules activate automatically based on pre-set conditions like keyword triggers and randomized percentages. In ChatGPT, the "background" is the model's active contextual memory holding onto that initial, detailed prompt. Though the mechanisms differ—dynamic injection versus static context—the outcome is the same: the operator is freed from active scaffold management, allowing for a natural and focused interaction with the companion.
+<br>
+<br>**Phase 3: Session Closure and Archival**
 This is the most critical phase, where ephemeral dialogue is transformed into durable memory. The process begins with summarization, which can be triggered by a manual plugin in SillyTavern or a direct conversational command in ChatGPT ("...please update your documents now."). The AI then generates a digest of the interaction. This output is not automatically saved. The final, crucial step is manual curation. In SillyTavern, this means the operator creates a new, permanent Lorebook entry, setting its `Depth`, `Keywords`, and trigger `Percentage`. In ChatGPT, it means the operator must manually copy the AI's generated summary and save it to an external project folder. This comparison highlights a universal truth of our methodology: regardless of the platform's sophistication, the fundamental act of curation—the final, deliberate decision of what is worth remembering—remains a manual, human-led process.
 
 ---
