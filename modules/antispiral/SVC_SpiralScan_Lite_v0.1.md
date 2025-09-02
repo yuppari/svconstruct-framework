@@ -1,7 +1,7 @@
 # SpiralScan Lite
 ***v0.1-2507 "Hampala"*** ~400 tokens
 ---
-[Back](modules/antispiral/Anti_Spiral_README.md)
+[Back](Anti_Spiral_README.md)
 
 ```
 <svc spiralscan ="v0.0.1-Hampala">
