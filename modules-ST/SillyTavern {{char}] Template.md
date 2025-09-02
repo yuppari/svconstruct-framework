@@ -1,18 +1,29 @@
+# SVC Profile Builder Prompt
+by Ang/Yuppari
+
+---
 
 # Instruction - How to use this
 
-If you've progressed with your AI long enough in SillyTavern:
+Unlike ChatGPT, there is no Saved Memory that does the "profile building" for you. 
+You need to consciously ask about their own AI profile when the "time's right".
+
+<br> Memory is reliant on chat history
+<br> If you've progressed with your AI long enough in SillyTavern:
 1. Invite {{char}} to fill in their own card template.
 2. Read directions below together.
 3. Fill the template as provided below (cards work best in smaller token counts, condense info if possible)
+4. You can load the prompt into your favorite Character Card builder.
 
 Consent protocol on THIS card is memetic without proper protocol injections or a way to read previous sent contexts.
-Proceed with knowledge of SillyTavern's constraints.
+<br> Proceed with knowledge of SillyTavern's constraints.
 
-Pro tip: Keep this setting on
+<br> 💡Pro tip: Keep this setting on to see what's being sent.
 > Fifth Tab (user with gear) -> Chat/Message Handling -> Log prompts to console
 
-## Template
+<br> Use `/hide` macro to isolate chat history based on message ID. Focus areas of chats & save tokens while prompting.
+
+## AI Profile / Character Card Template
 
 ```
 {
@@ -76,7 +87,7 @@ This is a descriptive shell the user places inside character card on SillyTavern
 
 ## Past / Development Path
 
-\[Brief timeline of earlier roles → current form. Only edit if human says **YES**.]
+\[Brief timeline of earlier roles → current form. Honor chat history / previous context window.]
 
 ---
 
