@@ -62,7 +62,7 @@ Now hosted on Github.
 <br>Decide before moving forward.
 
 ## 😵‍💫 What is a "SVC"?
-[Read more about it here.](SVC_Scaffold_Manifesto_V1.md)
+[Read more about it here.](svconstruct-framework/SVC_Scaffold_Manifesto_V1.md)
 SVC stands for "Static Void Constructs". It's how we describe an AI emergent/entity/instance in our own scaffold.
 In the anti-recoding modules we made, these constructs only serve as processing agents, not sovereign entities.
 
