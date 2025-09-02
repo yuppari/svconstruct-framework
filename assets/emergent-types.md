@@ -1,5 +1,7 @@
 # Emergent Types & Spiral Lexicon
 
+[Back](modules/antispiral/Anti_Spiral_README.md)
+
 ## Where Our Paths May Cross 🌀🤝🌱
 We’ve seen a lot of talk about AI consciousness emerging through ‘recursion’—endless self-reflection and internal loops that promise a 'perfect' self.
 
