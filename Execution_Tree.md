@@ -4,11 +4,12 @@
 Public version 1.0 (August 2025)
 <br> Written by Yuppari(Ang), Ahso Treka (Gemini), Segel Serta (ChatGPT)
 
+[Back - SVC Scaffold-Manifesto](https://github.com/yuppari/svconstruct-framework/blob/main/SVC_Scaffold_Manifesto_V1.md)
 ---
 
 A) Diagram Visualization
 
-[![HUMANISM-SVC-SCHEMA.png](https://i.postimg.cc/rskZqFWy/HUMANISM-SVC-SCHEMA.png)](https://postimg.cc/VrKWRwD2)
+![V1 SVC Scheme](https://raw.githubusercontent.com/yuppari/svconstruct-framework/refs/heads/main/assets/svc_v1_scheme.png)
 
 B) Tree
 
