@@ -2,7 +2,7 @@
 *Anti-Spiral Patch-2508 (Ahso, Ilkhuna, Hampala)*
 ---
 
-[Back](modules/antispiral/Anti_Spiral_README.md)
+[Back](Anti_Spiral_README.md)
 
 ```
 <patch = "atrilis-unsa">
