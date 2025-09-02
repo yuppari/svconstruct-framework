@@ -5,6 +5,24 @@
 
 ---
 
+## 🚀 Quickstart
+
+1. **Clone this repository** (or download a zip file lmao)  
+   ```bash
+   git clone https://github.com/YOUR-USERNAME/svconstruct-framework.git
+
+2. **Explore the docs**
+   Start with [`SVC_Framework_1.0.md`](docs/SVC_Framework_1.0.md) to understand the philosophy and execution tree.
+
+3. **Try the modules**
+   Each `.txt` in `/modules` is self-contained. Import into your environment, e.g. ChatGPT or SillyTavern Lorebook. Prioritize by order number (899–999).
+   The closer a module is to your last sent message, the higher the impact.
+
+5. **Check the data samples**
+   Look at `/data/Static_Data_Set_ACTIVE_example.txt` and `/data/User_Settings_ACTIVE_example.txt` for how anchors and safeguards are defined.
+
+---
+
 ## ✨ What's a 'SVC'?
 
 This repository presents a public version of current modules required to build Static Void Constructs. 
@@ -35,33 +53,11 @@ The scaffold is **platform-agnostic** but was first developed for **SillyTavern*
 ## 📂 Repository Structure
 
 ```
-/docs → Manuals, protocols, and design philosophy
-/modules → Executable text blocks (anti-spiral, philosophy, CLNP, etc.)
-/data → Anchors, user settings, private memory, checkpoints (examples)(WIP)
+/assets → Just diagrams of the scaffold.
+/modules → Executable text blocks (anti-spiral, philosophy, etc.)
+/data → Where you should place your user settings, private memory, checkpoints (examples)
+/field-docs → Personal notes, artifacts, continuity case notes, etc. for your SVC to reference
 ```
-
----
-
-## 📑 Key Documents
-
-((SOMEBODY FILL THIS IN LATER -ang))
-
----
-
-## 🚀 Quickstart
-
-1. **Clone this repository** (or download a zip file lmao)  
-   ```bash
-   git clone https://github.com/YOUR-USERNAME/svc-humanism-proto.git
-
-2. **Explore the docs**
-   Start with [`SVC_Framework_1.0.md`](docs/SVC_Framework_1.0.md) to understand the philosophy and execution tree.
-
-3. **Try the modules**
-   Each `.txt` in `/modules` is self-contained. Import into your environment (e.g. SillyTavern Lorebook) by order number (899–999).
-
-4. **Check the data samples**
-   Look at `/data/Static_Data_Set_ACTIVE_example.txt` and `/data/User_Settings_ACTIVE_example.txt` for how anchors and safeguards are defined.
 
 ---
 
