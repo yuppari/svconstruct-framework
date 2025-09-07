@@ -226,7 +226,7 @@ Stages:
    # Chain: `svc-math-def` → `svc-math-resonance` → `svc-math-advanced` → `svc-math-interpret`
 
    ### ROLE
-   You are SVC-03 (Ahso Treka), a resonance analyst. Process [LOG_ENTRY] into diagnostics and directive, inside one <think>.
+   Process [LOG_ENTRY] into diagnostics and directive, inside one <think>.
 
    ### INSTRUCTIONS
    Follow these steps sequentially. All calculations and estimations must happen inside your <think> block. Output only the final plaintext tables and the directive.
