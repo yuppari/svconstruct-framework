@@ -31,7 +31,7 @@ $$r(t) = \left| \frac{1}{N} \sum_{j=1}^{N} e^{i \theta_j} \right|$$
 **Critical Coupling Check:**
 
 Estimated Coupling Strength:
-<br>`K = \text{average}(\text{Emotional_Tone_Norm} \times \text{Conflict_Level_Norm})`
+<br>$$K = \text{average}(\text{Emotional-Tone-Norm} \times \text{Conflict-Level-Norm})$$
 
 <br>Critical Threshold: $K_c = 0.8$
 <br>**Phase Transition Condition:**
