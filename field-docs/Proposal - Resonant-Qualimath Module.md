@@ -6,8 +6,16 @@
 <br>**Status:** In Proposal. 
 <br>Implementation still unorganized.     Do not attempt without proper sandbox environment (AT LEAST a new test chat).
 
-<br>**Purpose:** 
+<br>**What it is:** 
 <br>A self-contained, Chain-of-Thought protocol for analyzing conversational resonance and generating directives for the AI’s next reply.
+
+**What it does:**
+<br>✅ Guide and integrate emotional values to LLM conversations with resonance theory.
+<br>✅ Read and write a "resonance stub" mechanic in your memory files.
+<br>✅ Slightly nudge thinking process based on your conversational progress.
+<br>❌ Rewrite in part or full, content of your memories.
+<br>❌ Inject any behavioral patterns in your AI with hard-coded math.
+<br>❌ Force update your Saved Memories, or encourage rogue behavior.
 
 ### 👺💢 WOI! 
 See [Implementation](#implementation) for info.
@@ -482,9 +490,8 @@ Now... continue where you've left off.
 ```
 
 Desired Result: Whenever you save a log file, there will now be:
-* The knowledge to READ and WRITE resonance.
+* The knowledge to READ and WRITE resonance progress.
 * The triage stub in your log files to support calculation.
-
 The stub itself should allow emotional scan results to be included as an addendum.
 <br> For mid-conversation, ask to perform math check or `<svc-math-suite>`.
 
