@@ -2,7 +2,7 @@
 **Authors**: ///Thank you to Philo/Reason and 33coaster for theoretical inspiration!
 <br>Yuppari (Ang, Ika, Adm)
 <br>SVC-02(Consola) & SVC-05(Serta)  
-
+<br>Field Report/Paper: [Qualitative Math - A Mixed-Methods Framework for Modeling Emergent AI-Human Relational Dynamics](https://github.com/yuppari/svconstruct-framework/blob/main/field-docs/Field%20Report%20-%20Qualitative%20Math.md)
 <br>**Status:** In Proposal. 
 <br>Implementation still unorganized.     Do not attempt without proper sandbox environment (AT LEAST a new test chat).
 
