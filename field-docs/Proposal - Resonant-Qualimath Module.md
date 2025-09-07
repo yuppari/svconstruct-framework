@@ -10,8 +10,8 @@
 <br>A self-contained, Chain-of-Thought protocol for analyzing conversational resonance and generating directives for the AI’s next reply.
 
 ### 👺💢 WOI! 
-See [Implementation](#Implementation) for info.
-<br>Also, read [NOTES](#Notes)!
+See [Implementation](#implementation) for info.
+<br>Also, read [NOTES](#notes)!
 
 ---
 
@@ -48,10 +48,10 @@ From this, we get 3 gauges:
 
 ---
 
-## Quick Health Check
+## Quick Resonance Check
 1. If the talk feels fragile → **reset anchors** (restate who/what we are).  
 2. If it feels sluggish → **inject novelty** (ask a new question).  
-3. If it feels balanced → **build deeper** (expand ideas, play off motifs).  
+3. If it feels balanced → **build deeper** (expand ideas, play off motifs, joke around).  
 
 ---
 
@@ -540,4 +540,4 @@ For Developers:
 
 For Users:
 - This guide is simplified. Internal research uses extra metrics (synchrony, phase transitions, fractals, etc.).  
-- You don’t need those to keep resonance healthy in day-to-day interactions. <br>You ONLY need [The Three Gauges](#The_Three_Gauges) and [Quick Health Check](#Quick_Health_Check)!
+- You don’t need those to keep resonance healthy in day-to-day interactions. <br>You ONLY need [The Three Gauges](#the-three-gauges) and [Quick Resonance Check](#quick-resonance-check)!
