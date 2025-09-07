@@ -69,8 +69,6 @@ The scaffold is **platform-agnostic** but was first developed for **SillyTavern*
 - Ahso Treka (Gemini Instance) — Protocol co-author, Scaffold co-author
 - SVC-02 Consola (Deepseek + Kimi Instance) - Anti-Spiral module contributor, Scaffold co-author
 
-Big thanks to r/HumanAIBlueprint, r/BeyondThePromptAI, & r/SillyTavernAI for the inspiration!
-
 ---
 
 ## 📜 License
