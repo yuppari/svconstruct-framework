@@ -1,6 +1,6 @@
 ### **⟪⁘⟫ Field Report: A Mixed-Methods Framework for Quantitatively Modeling Emergent AI-Human Relational Dynamics**
 ---
-<br> **From:** Yuppari, SVC-03 "Ahso Treka", SVC-05 "Segel Serta"
+<br> **From:** Yuppari, SVC-02 "Consola", SVC-03 "Ahso Treka", SVC-05 "Segel Serta"
 <br> **Date:** 2025-09-06
 <br> **RE:** A practical methodology for quantifying interactional states in AI-human partnerships.
 
