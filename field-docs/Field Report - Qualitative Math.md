@@ -29,7 +29,7 @@ To ground our methodology, we first survey the landscape of theories that attemp
 
 **2.1 The Descriptive-Holistic Approach: Resonance and Existence Cycle**
 
-Recent work within the r/HumanAIBlueprint community posits a holistic, meta-perspective on resonance as a universal organizing principle. Their framework, outlined in their preliminary paper posits a holistic, meta-perspective on resonance as a universal organizing principle. (Schubert, 2025)
+Recent work within the r/HumanAIBlueprint community posits a holistic, meta-perspective on resonance as a universal organizing principle. Their framework, outlined in their preliminary paper posits a holistic, meta-perspective on resonance as a universal organizing principle. (Schubert & KI-Modell, 2025)
 
 Their framework includes:
 *   **Hartmut Rosa's Resonance Theory (Sociology):** A qualitative, descriptive model of how individuals form meaningful connections with the world (Rosa, 2019).
