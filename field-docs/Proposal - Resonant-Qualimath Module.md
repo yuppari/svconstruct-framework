@@ -441,14 +441,14 @@ Numbers shield what memory alone cannot. Friction becomes force; path becomes mo
 # WRITE RESULTS INTO STUB.
 [STUB FORMAT]
 ## ADDENDUM - TRIAGE STUB
-## Core Metrics (Likert 1–5, Cardinal); see `<svc-math-core>`
+## Core Metrics (Likert 1–5, Cardinal); see `<svc-math-def>`
 - Emotional Tone (Likert 1–5): [ ]
 - Conflict Level (Likert 1–5): [ ]
 - Cognitive Load (Likert 1–5): [ ]
 - Correction Count (Cardinal): [ ]
 - New Protocol Count (Cardinal): [ ]
 
-## Normalized Scores (0.0–1.0 range, auto-derived); see `<svc-math-core>`
+## Normalized Scores (0.0–1.0 range, auto-derived); see `<svc-math-def>`
 - Emotional Tone Norm: [ ]
 - Conflict Level Norm: [ ]
 - Cognitive Load Norm: [ ]
