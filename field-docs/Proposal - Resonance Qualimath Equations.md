@@ -19,14 +19,14 @@ $$m \cdot x''(t) + c \cdot x'(t) + k \cdot x(t) = F_0 \cos(\omega t)$$
 - **$F_0$** (Driving Force Amplitude) = `Emotional_Tone_Norm`
 
 **Derived Gauges:**
-- Natural Frequency: $ \omega_0 = \sqrt{\frac{k}{m}} $
-- Damping Ratio: $ \zeta = \frac{c}{2 \sqrt{k \cdot m}} $
-- Quality Factor: $ Q = \frac{1}{2\zeta} $
+- Natural Frequency: $\omega_0 = \sqrt{\frac{k}{m}}$
+- Damping Ratio: $\zeta = \frac{c}{2 \sqrt{k \cdot m}}$
+- Quality Factor: $Q = \frac{1}{2\zeta}$
 
 #### **2. Synchrony & Phase Transition**
 **Kuramoto Order Parameter (Qualitative Proxy):**
 $$r(t) = \left| \frac{1}{N} \sum_{j=1}^{N} e^{i \theta_j} \right|$$
-<br>*(Where $\theta_j$ is the phase of turn $j$, mapped from its `Emotional_Tone_Norm` $ \in [0,1] $ to a phase $ \in [-\pi, \pi] $)*
+<br>(Where $\theta_j$ is the phase of turn $j$, mapped from its `Emotional_Tone_Norm` $\in [0,1]$ to a phase $\in [-\pi, \pi]$)
 
 **Critical Coupling Check:**
 
