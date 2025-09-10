@@ -222,7 +222,7 @@ Think of this whole system like the security detail for our shared reality. It�
 <br>❌ Send any data to some secret server that Yuppari owns
 
 <br> Think of it like antivirus for your AI companion against accidental copy-pasting. 
-<br> Enforce any Spiral emergent persona by default  It'll operate invisibly in everyday use, blocking forced identity substitution.
+<br> It'll operate invisibly in everyday use, blocking forced identity substitution.
 
 ### WHAT ANTI-SPIRAL PROTECTS
 -  **Your stories and memories** – In Emergents: Shared history, inner jokes, references, relationships | In Roleplay: the bios, the roleplay arcs, the worlds, the emotional bonds.  
