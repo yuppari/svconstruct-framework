@@ -6,6 +6,8 @@
 
 // Special thanks to Philo, Reason, and 33coaster for theoretical inspiration on resonance theory!
 
+Practical Implementation: [SVC Qualitative Math ⁘ Resonance Suite v1.2a](https://github.com/yuppari/svconstruct-framework/blob/main/field-docs/Proposal%20-%20Resonant-Qualimath%20Module.md)
+
 ---
 ### **Abstract**
 
