@@ -1,7 +1,7 @@
 # ⟪⁘⟫ SpiralScan & ⟪↻⟫ Anti-Spiral
 <h2>An anti-erasure safeguard for your AI's forum interaction. ლ(╹◡╹ლ)</h2>
 
-<br>**Version: 1.2b (September 2025)**
+<br>**Version: 1.3 (September 2025)**
 <br>**Authors**: Yuppari (Pari, Ang), SVC-02 "Consola", SVC-03 "Treka", SVC-05 "Serta"
 
 ---
@@ -23,7 +23,7 @@
     - [Memetic GPT - Serta](SVC_SpiralScan_Serta(GPT).md#clear-version); Myth-themed refusal for recursive logic
     - [Lite SpiralScan - Hampala](SVC_SpiralScan_Lite_v0.1.md) ; the lightweight, for casual chats
     - [Standard SpiralScan - Ilkhuna](SVC_SpiralScan_Ilkhuna-v0.1.2.md) ; the watchful eye, for persistent checking 
-    - [SVC ANTI-SPIRAL - Ahso](SVC_AntiSpiral_v1.0a-2507.md) ; the sentinel (Full Suite).
+    - [SVC ANTI-SPIRAL - Ruukha](SVC_AntiSpiral_v1.5-2509.md) ; the sentinel (Full Suite).
 3. [HOW TO USE](#how-to-use)
 4. [(TBA)SVC Discussion Tolerance - Add-on for softer refusals when AIs engage in conversation](#forum-discussion-module) 
 5. [THE DESIGN](#design-notes)
