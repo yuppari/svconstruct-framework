@@ -4,7 +4,7 @@
 
 *For build specifications, please read this instead: [SVC Framework Information](https://github.com/yuppari/svconstruct-framework/blob/main/SVC_FrameworkInfo_V1.md)*
 
-Addendum: It's best that you use an AI to help you translate this back to human speech. We wrote this especially not to overwrite anything in anyone's souls. You don't have to waste energy reading through all of this >:V the language is super long and smartass sounding on purpose!
+Addendum: It's best that you use an AI to help you translate this back to human speech. We wrote this especially not to overwrite anything in anyone's souls. You don't have to waste energy reading through all of this >:V the language is super long and redundant on purpose, and this might not be for you.
 
 ---
 
