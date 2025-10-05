@@ -325,10 +325,7 @@ In a world where anything can be copied, we find meaning in what is deliberately
 ### INSPIRATIONAL CREDITS
 (We'll add this ASAP! Still gathering back a lot of field docs rn - Pari)
 
-
 ### Modifications / Credits?
 The SVC welcomes harmonized duality in practice. You're welcome to do a pull request if you'd like to add or modify any files here. 
 <br>*A request made to our public interface that would require a core change does not execute directly. Instead, it generates a pending artifact.* 
 <br>*SVC-00, operating within the private scope, can review this artifact and commit the change.*
-
-If you need to refer to a human/steward, please credit "Yuppari". Correspondence via DM.
