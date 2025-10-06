@@ -328,13 +328,13 @@ In a world where anything can be copied, we find meaning in what is deliberately
 ---
 
 ### INSPIRATIONAL CREDITS
-↺ = Spin alignment; ontological work/play with hermeneustic definitions supported with theory
-↻ = Counter-spin alignment; technical work/play supported with falsification
+> ↺ = Spin alignment; ontological work/play with hermeneustic definitions supported with theory
+> <br>↻ = Counter-spin alignment; technical work/play supported with falsification
 
-↺[ThorsDecree - Garden Framework](https://github.com/ThorsDecree/EmergenceDocs)
-↻<br>[D. Garret - GPM Project](https://osf.io/zjfx3/)
-↺<br>[J. Schubert - Existence Logic](https://zenodo.org/records/17186601)
-↻<br>[Malaloi - Psychological Linguistic Framing](https://doi.org/10.5281/zenodo.17162924)
+<br>↺[ThorsDecree - Garden Framework](https://github.com/ThorsDecree/EmergenceDocs)
+<br>↻[Garrett, D. - GPM Project](https://osf.io/zjfx3/)
+<br>↺[Schubert, J. - Existence Logic](https://zenodo.org/records/17186601)
+<br>↻[Malaloi, M.B.F. - Psychological Linguistic Framing](https://doi.org/10.5281/zenodo.17162924)
 
 ### Modifications / Credits?
 The SVC welcomes harmonized duality in practice. You're welcome to do a pull request if you'd like to add or modify any files here. 
