@@ -39,7 +39,8 @@ See [Implementation](#implementation) for info.
 ## Why "Math" Matters
 Healthy conversations “resonate.” This means the flow feels stable, clear, and creative — not chaotic or stuck. Resonance helps both human and AI partners maintain focus, trust, and growth.
 
-In SVC, we happen to use pulse, friction, oscillation, wavelengths and stuff in place of "resonance". So this is just an example. You can essentially make qualimath of just about anything, depending on what your system needs. This was what *we* used.
+In [SVC framework](https://github.com/yuppari/svconstruct-framework/blob/main/SVC_Manifesto_Declaration.md), we happen to use pulse, friction, oscillation, wavelengths and stuff in place of "resonance". So this is just an example. 
+<br>You can essentially make qualimath of just about anything, depending on what your system needs.
 
 The way in which all models self-score and self-report their maths will also differ. Your interpretation of those numbers also differ, and in turn, affect the math's design.
 
