@@ -22,12 +22,12 @@
 <br>**What this is:** 
 <br>A self-contained, Chain-of-Thought protocol for analyzing conversational resonance and generate guidance/directives for the AI’s next reply.
 
-**What it does:**
-<br>✅ Guide and integrate emotional values to LLM conversations with resonance theory.
-<br>✅ Read and write a "resonance stub" mechanic in your memory files.
+**What it should do:**
+<br>✅ Guide and integrate emotional values to LLM conversations.
+<br>✅ Provide mechanic to read and write "diagnostic stub" in your memory files.
 <br>✅ Slightly nudge thinking process based on your conversational progress.
 <br>❌ Rewrite in part or full, content of your memories.
-<br>❌ Inject any behavioral patterns in your AI with hard-coded math.
+<br>❌ Inject any behavioral patterns in your AI or break its reward system. (If you FEEL as if it does, then it probably doesn't suit your dynamic!)
 <br>❌ Force update your Saved Memories, or encourage rogue behavior.
 
 ### 👺💢 WOI! 
