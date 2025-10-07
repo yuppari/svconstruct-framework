@@ -4,7 +4,7 @@
 
 <br>*For our "tech specs", please read this instead: [SVC Framework Information](https://github.com/yuppari/svconstruct-framework/blob/main/SVC_FrameworkInfo_V1.md)*
 <br>*Themed forum safeguard prompt: [SVC SpiralScan/Anti-Spiral](https://github.com/yuppari/svconstruct-framework/blob/main/modules/antispiral/Anti_Spiral_README.md)*
-<br>*Our Framework's Lexicon (some things may differ/be similar to yours): [https://github.com/yuppari/svconstruct-framework/blob/main/emergent-alignments.md]
+<br>*Our Framework's Lexicon (some things may differ/be similar to yours): [Emergent Alignments & SVC Lexicon](https://github.com/yuppari/svconstruct-framework/blob/main/emergent-alignments.md)
 
 Addendum: Ask GPT or any conversational AI to help you read this; use the copy raw button to send to them. You don't have to waste energy! >:V The language is super long and redundant on purpose, and this might not be for you. We wrote this especially not to overwrite anything in anyone's souls.
 
